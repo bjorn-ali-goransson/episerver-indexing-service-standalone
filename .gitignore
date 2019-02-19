@@ -1,0 +1,17 @@
+﻿.vs
+*.log
+*.mdf
+*.ldf
+bin
+bower_components
+imagecache
+node_modules
+obj
+*.vssscc
+*.vspscc
+*.user
+Logs
+/IndexingService/App_Data
+/IndexingService/Properties/PublishProfiles
+/IndexingService/Web.*.config
+/packages
